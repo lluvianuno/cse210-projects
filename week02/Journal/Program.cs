@@ -33,7 +33,7 @@ class Program
 
             if (response == 1)
             {
-                Entry entry = new Entry(); // <-- nuevo objeto cada vez
+                Entry entry = new Entry();
                 entry._name = name;
                 string promptText = prompt.GetRandomPrompt();
                 Console.WriteLine(promptText);
