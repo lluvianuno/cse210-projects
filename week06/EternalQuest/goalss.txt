@@ -1,0 +1,4 @@
+0
+Get shampoo|Buy shampoo at the store|50|False
+Reading the scriptures|Read them for at least 10 minutes|50
+Visit the temple|Attend and do any ordinance|50|0|3|500
